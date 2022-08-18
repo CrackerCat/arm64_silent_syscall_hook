@@ -2,9 +2,9 @@
   _______ _(_)__    / /__ (_)__  ___ _
  / __/ _ `/ / _ \  /  '_// / _ \/ _ `/
 /_/  \_,_/_/_//_/ /_/\_\/_/_//_/\_, /
-                               /___/   <0xwillow - 0xwillow#2009>
-                                       "rain wont drop until i say so"
-======================================================================
+                               /___/   <0xwillow - 0xwillow#0440>
+                                       rain wont drop until i say so
+=====================================================================
 github.com/null0333/arm64_silent_syscall_hook
 demonstration: asciinema.org/a/B3Ws8bYdg8kdSUftyJjuEZmEP
 
